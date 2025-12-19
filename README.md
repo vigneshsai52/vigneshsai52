@@ -1,8 +1,8 @@
 # Hi, I'm Vignesh Sai 👋
 
 🎓 Computer Science Engineering Student  
-🔐 Aspiring Cybersecurity & Backend Engineer  
-🐍 Python | Flask | AWS | Security Projects  
+💻 Aspiring Software Engineer | Cybersecurity Enthusiast  
+🐍 Python | Flask | AWS | REST APIs | Security Fundamentals
 
 ---
 
