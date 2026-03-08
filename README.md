@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Technical Skills
-- **Programming:** Python, SQL, Bash (Basics)
+- **Programming:** Python, SQL, Bash 
 - **Backend:** Flask, REST APIs, JWT Authentication
 - **Cloud:** AWS EC2, Deployment, Security Groups
 - **Security:** Network Scanning, Login Monitoring, Brute-force Detection
