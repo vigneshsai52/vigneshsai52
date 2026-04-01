@@ -2,7 +2,7 @@
 
 🎓 Computer Science Engineering Student  
 💻 Aspiring Software Engineer | Cybersecurity Enthusiast  
-🐍 Python | Flask | AWS | REST APIs | Security Fundamentals
+🐍 Python | Java | Flask | AWS | REST APIs | Security Fundamentals
 
 ---
 
