@@ -1,59 +1,155 @@
-# Hi, I'm Vignesh Sai 👋
+<h1 align="center">Hi 👋, I'm Vignesh Sai</h1>
 
-🎓 Computer Science Engineering Student  
-💻 Aspiring Software Engineer | Cybersecurity Enthusiast  
-🐍 Python | Java | Flask | AWS | REST APIs | Data Analytics | Security Fundamentals
-
----
-
-## 🔧 Technical Skills
-- **Programming:** Python, Java , SQL, Bash 
-- **Backend:** Flask, REST APIs, JWT Authentication
-- **Cloud:** AWS EC2, Deployment, Security Groups
-- **Security:** Network Scanning, Login Monitoring, Brute-force Detection
-- **Tools:** Git, GitHub, Postman, Linux (Basics)
+<h3 align="center">
+Aspiring Software Engineer | Python Developer | Cloud, Cybersecurity & Data Analytics Enthusiast
+</h3>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 About Me
 
-### 🛒 E-Commerce Backend API (Flask, JWT)
-- Developed RESTful APIs for authentication, product listing, and cart management  
-- Implemented JWT-based authentication for protected routes  
-- Integrated SQLite database  
-- Deployed using Gunicorn on Render  
-- Tested APIs using Postman  
-
-🔗 Repo: https://github.com/vigneshsai52/ecommerce-backend
-
----
-
-### 🔐 Secure Flask App Deployment on AWS EC2
-- Deployed Flask application on AWS EC2  
-- Configured security groups and SSH access  
-- Used bcrypt for secure password hashing  
-
-🔗 Repo: https://github.com/vigneshsai52/flask-aws-ec2
+- 🎓 Computer Science Engineering Student
+- 💻 Interested in Software Development & Cloud Technologies
+- 🔐 Exploring Cybersecurity and Security Tools
+- ☁️ Learning AWS Cloud & Deployment
+- 📊 Interested in Data Analytics & Data Visualization
+- 🧠 Practicing DSA and Problem Solving
+- 🚀 Open to Internship & Full-Time Opportunities
 
 ---
 
-### 🌐 Basic Network Scanner
-- Built a Python-based network scanning tool  
-- Identified open ports and services  
+# 🛠️ Technologies & Tools
 
-🔗 Repo: https://github.com/vigneshsai52/Basic_Network_Scanner
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+</p>
 
 ---
 
-### 📊 Login Monitoring & Brute-force Detection (Splunk)
-- Analyzed login logs to detect brute-force attacks  
-- Created alerts using Splunk  
+# 📌 Featured Projects
 
-🔗 Repo: https://github.com/vigneshsai52/splunk-login-monitoring
+## 🛒 E-Commerce Backend API
+
+✔ Built REST APIs using Flask  
+✔ JWT Authentication & Protected Routes  
+✔ SQLite Database Integration  
+✔ Product & Cart Management  
+✔ Hosted on Render  
+
+🔗 Repository:  
+https://github.com/vigneshsai52/ecommerce-backend
 
 ---
 
-## 📫 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/u-vignesh-sai-107336244  
-- **Portfolio:** https://vigneshsai52.github.io/  
-- **GitHub:** https://github.com/vigneshsai52
+## ☁️ Flask Deployment on AWS EC2
+
+✔ Deployed Flask application on AWS EC2  
+✔ Configured Security Groups & SSH  
+✔ Linux Server Setup & Management  
+✔ Remote Deployment using SSH  
+
+🔗 Repository:  
+https://github.com/vigneshsai52/aws-ec2-flask-app
+
+---
+
+## 🌐 Basic Network Scanner
+
+✔ Python-based network scanner  
+✔ Identified open ports and services  
+✔ Networking Fundamentals & Socket Programming  
+
+🔗 Repository:  
+https://github.com/vigneshsai52/basic-network-scanner
+
+---
+
+## 📊 Data Analytics Project
+
+✔ Data Cleaning using Pandas  
+✔ Data Visualization using Matplotlib  
+✔ SQL-based Data Analysis  
+✔ Generated Insights from Datasets  
+
+🔗 Repository:  
+https://github.com/vigneshsai52
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vigneshsai52&show_icons=true&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshsai52&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshsai52&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vigneshsai52">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Passionate about Software Development, Cloud, Cybersecurity & Data Analytics
+</p>
