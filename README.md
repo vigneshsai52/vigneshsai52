@@ -30,6 +30,10 @@ Aspiring Software Engineer | Python Developer | Cloud, Cybersecurity & Data Anal
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -62,11 +66,11 @@ Aspiring Software Engineer | Python Developer | Cloud, Cybersecurity & Data Anal
 
 ## 🛒 E-Commerce Backend API
 
-✔ Built REST APIs using Flask  
+✔ RESTful E-Commerce Backend API built with Flask  
 ✔ JWT Authentication & Protected Routes  
 ✔ SQLite Database Integration  
 ✔ Product & Cart Management  
-✔ Hosted on Render  
+✔ Backend API Development  
 
 🔗 Repository:  
 https://github.com/vigneshsai52/ecommerce-backend
@@ -75,13 +79,13 @@ https://github.com/vigneshsai52/ecommerce-backend
 
 ## ☁️ Flask Deployment on AWS EC2
 
-✔ Deployed Flask application on AWS EC2  
+✔ Secure Flask application deployment on AWS EC2  
 ✔ Configured Security Groups & SSH  
 ✔ Linux Server Setup & Management  
 ✔ Remote Deployment using SSH  
 
 🔗 Repository:  
-https://github.com/vigneshsai52/aws-ec2-flask-app
+https://github.com/vigneshsai52/flask-aws-ec2
 
 ---
 
@@ -90,9 +94,22 @@ https://github.com/vigneshsai52/aws-ec2-flask-app
 ✔ Python-based network scanner  
 ✔ Identified open ports and services  
 ✔ Networking Fundamentals & Socket Programming  
+✔ Cybersecurity Basics Project  
 
 🔗 Repository:  
-https://github.com/vigneshsai52/basic-network-scanner
+https://github.com/vigneshsai52/Basic_Network_Scanner
+
+---
+
+## 🔐 Security Log Monitoring
+
+✔ Login monitoring and brute-force detection  
+✔ Log analysis using Splunk  
+✔ Security Event Monitoring  
+✔ Detection of suspicious login attempts  
+
+🔗 Repository:  
+https://github.com/vigneshsai52/splunk-login-monitoring
 
 ---
 
@@ -104,7 +121,7 @@ https://github.com/vigneshsai52/basic-network-scanner
 ✔ Generated Insights from Datasets  
 
 🔗 Repository:  
-https://github.com/vigneshsai52
+https://github.com/vigneshsai52/covid-health-analysis
 
 ---
 
@@ -126,7 +143,7 @@ https://github.com/vigneshsai52
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:vigneshsai52@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
