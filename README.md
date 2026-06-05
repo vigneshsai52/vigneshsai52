@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vignesh Sai</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | Python Developer | Cloud, Cybersecurity & Data Analytics Enthusiast
-</h3>
+Software Engineer | FastAPI • PostgreSQL • Docker • LLM Integration | 100% Uptime • ~50ms Response | SAP ABAP Certified | Open to Work</h3>
 
 ---
 
