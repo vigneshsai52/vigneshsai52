@@ -1,159 +1,101 @@
-<h1 align="center">Hi 👋, I'm Vignesh Sai</h1>
+&lt;h1 align="center"&gt;Hi 👋, I'm Vignesh Sai&lt;/h1&gt;
 
-<h3 align="center">
-Software Engineer | FastAPI • PostgreSQL • Docker • LLM Integration | 100% Uptime • ~50ms Response | SAP ABAP Certified | Open to Work</h3>
-
----
-
-# 🚀 About Me
-
-- 🎓 Computer Science Engineering Student
-- 💻 Interested in Software Development & Cloud Technologies
-- 🔐 Exploring Cybersecurity and Security Tools
-- ☁️ Learning AWS Cloud & Deployment
-- 📊 Interested in Data Analytics & Data Visualization
-- 🧠 Practicing DSA and Problem Solving
-- 🚀 Open to Internship & Full-Time Opportunities
+&lt;h3 align="center"&gt;
+Software Engineer | FastAPI • PostgreSQL • Docker • LLM Integration | 100% Uptime • ~50ms Response | SAP ABAP Certified | Open to Work
+&lt;/h3&gt;
 
 ---
 
-# 🛠️ Technologies & Tools
+## 🚀 Featured Projects
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</p>
+| Project | Stack | Metrics | Live Demo |
+|---------|-------|---------|-----------|
+| **SplitBill Pro** | FastAPI, PostgreSQL, Docker, JWT | 100% Uptime, ~50ms p95 latency | [Live](https://splitbill-pro-two.vercel.app/) |
+| **ContractScan** | Flask, Llama 3.1, Groq API, PyPDF2 | $0 AI infra cost, 70% faster review | [Live](https://documind-ai-roan.vercel.app/) |
+| **PinePay Wallet API** | Spring Boot, MySQL, JWT | Digital wallet backend with transaction management | [Repo](https://github.com/vigneshsai52/PinePay-Wallet-API) |
+| **Go Employee API** | Go, REST API | Clean architecture employee management backend | [Repo](https://github.com/vigneshsai52/go-employee-api) |
+| **Cloud Monitoring Dashboard** | Grafana, Prometheus, Docker | Real-time infrastructure monitoring | [Repo](https://github.com/vigneshsai52/cloud-monitoring-dashboard) |
 
 ---
 
-# 📌 Featured Projects
+## 📊 Production Highlights
 
-## 🛒 E-Commerce Backend API
-
-✔ RESTful E-Commerce Backend API built with Flask  
-✔ JWT Authentication & Protected Routes  
-✔ SQLite Database Integration  
-✔ Product & Cart Management  
-✔ Backend API Development  
-
-🔗 Repository:  
-https://github.com/vigneshsai52/ecommerce-backend
+- **SplitBill Pro**: FastAPI backend, 5+ normalized PostgreSQL tables, JWT auth, Docker containerized, UptimeRobot monitoring
+- **ContractScan**: Eliminated $0 AI cost using Groq free-tier, structured prompt engineering, 5+ document formats (PDF/DOCX/DOC/TXT)
+- **System Design**: Clean architecture, modular services, separation of concerns, isolated testing
+- **DevOps**: Docker, Render, Railway, Vercel, CI/CD basics, Linux server management
 
 ---
 
-## ☁️ Flask Deployment on AWS EC2
+## 🛠️ Tech Stack
 
-✔ Secure Flask application deployment on AWS EC2  
-✔ Configured Security Groups & SSH  
-✔ Linux Server Setup & Management  
-✔ Remote Deployment using SSH  
+**Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
 
-🔗 Repository:  
-https://github.com/vigneshsai52/flask-aws-ec2
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
----
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 
-## 🌐 Basic Network Scanner
+**AI / LLM**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Llama](https://img.shields.io/badge/Llama_3.1-4A154B?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
-✔ Python-based network scanner  
-✔ Identified open ports and services  
-✔ Networking Fundamentals & Socket Programming  
-✔ Cybersecurity Basics Project  
-
-🔗 Repository:  
-https://github.com/vigneshsai52/Basic_Network_Scanner
-
----
-
-## 🔐 Security Log Monitoring
-
-✔ Login monitoring and brute-force detection  
-✔ Log analysis using Splunk  
-✔ Security Event Monitoring  
-✔ Detection of suspicious login attempts  
-
-🔗 Repository:  
-https://github.com/vigneshsai52/splunk-login-monitoring
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-## 📊 Data Analytics Project
+## 📜 Certifications
 
-✔ Data Cleaning using Pandas  
-✔ Data Visualization using Matplotlib  
-✔ SQL-based Data Analysis  
-✔ Generated Insights from Datasets  
-
-🔗 Repository:  
-https://github.com/vigneshsai52/covid-health-analysis
+- **SAP Certified Back-End Developer — ABAP Cloud** (Apr 2026)
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** (Nov 2025)
+- **Cisco Python Essentials 1 & 2** — OpenEDG Python Institute (Mar 2025)
+- **Google Cybersecurity Professional Certificate**
+- **Ethical Hacking Essentials (EHE)**
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vigneshsai52&show_icons=true&theme=tokyonight" />
-
-</p>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:vigneshsai52@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vigneshsai52">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=vigneshsai52&show_icons=true&theme=tokyonight&hide_border=true" /&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshsai52&theme=tokyonight&hide_border=true" /&gt;
+&lt;/p&gt;
 
 ---
 
-<p align="center">
-⭐ Passionate about Software Development, Cloud, Cybersecurity & Data Analytics
-</p>
+## 🌍 Connect With Me
+
+&lt;p align="center"&gt;
+  &lt;a href="https://linkedin.com/in/uvigneshsai52"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:vigneshsai52@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://splitbill-pro-two.vercel.app/"&gt;
+    &lt;img src="https://img.shields.io/badge/SplitBill_Pro_Live-667eea?style=for-the-badge"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://documind-ai-roan.vercel.app/"&gt;
+    &lt;img src="https://img.shields.io/badge/ContractScan_Live-764ba2?style=for-the-badge"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+---
+
+&lt;p align="center"&gt;
+  &lt;b&gt;Open to Software Engineering roles&lt;/b&gt; — Backend focused, full-stack curious | May 2026 grad
+&lt;/p&gt;
