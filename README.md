@@ -1,101 +1,124 @@
-&lt;h1 align="center"&gt;Hi 👋, I'm Vignesh Sai&lt;/h1&gt;
+<div align="center">
 
-&lt;h3 align="center"&gt;
-Software Engineer | FastAPI • PostgreSQL • Docker • LLM Integration | 100% Uptime • ~50ms Response | SAP ABAP Certified | Open to Work
-&lt;/h3&gt;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Vignesh%20Sai&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20FastAPI%20%E2%80%A2%20Docker%20%E2%80%A2%20LLM%20Integration&descSize=18&descAlignY=55"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=100%25+Uptime+%E2%80%A2+~50ms+Response;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;LLM+Integration+%E2%80%A2+%240+AI+Cost;SAP+ABAP+Certified+%E2%80%A2+Open+to+Work)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Metrics | Live Demo |
-|---------|-------|---------|-----------|
-| **SplitBill Pro** | FastAPI, PostgreSQL, Docker, JWT | 100% Uptime, ~50ms p95 latency | [Live](https://splitbill-pro-two.vercel.app/) |
-| **ContractScan** | Flask, Llama 3.1, Groq API, PyPDF2 | $0 AI infra cost, 70% faster review | [Live](https://documind-ai-roan.vercel.app/) |
-| **PinePay Wallet API** | Spring Boot, MySQL, JWT | Digital wallet backend with transaction management | [Repo](https://github.com/vigneshsai52/PinePay-Wallet-API) |
-| **Go Employee API** | Go, REST API | Clean architecture employee management backend | [Repo](https://github.com/vigneshsai52/go-employee-api) |
-| **Cloud Monitoring Dashboard** | Grafana, Prometheus, Docker | Real-time infrastructure monitoring | [Repo](https://github.com/vigneshsai52/cloud-monitoring-dashboard) |
+<div align="center">
+
+| ⚡ Project | 🛠️ Stack | 📊 Metrics | 🔗 Live |
+|:---|:---|:---|:---|
+| **SplitBill Pro** | FastAPI, PostgreSQL, Docker, JWT | 100% Uptime, ~50ms p95 | [🚀 Live Demo](https://splitbill-pro-two.vercel.app/) |
+| **ContractScan** | Flask, Llama 3.1, Groq API, PyPDF2 | $0 AI Cost, 70% Faster | [🚀 Live Demo](https://documind-ai-roan.vercel.app/) |
+| **PinePay Wallet** | Spring Boot, MySQL, JWT | Digital wallet backend | [📁 Repo](https://github.com/vigneshsai52/PinePay-Wallet-API) |
+| **Go Employee API** | Go, REST API | Clean architecture | [📁 Repo](https://github.com/vigneshsai52/go-employee-api) |
+| **Cloud Monitoring** | Grafana, Prometheus, Docker | Real-time monitoring | [📁 Repo](https://github.com/vigneshsai52/cloud-monitoring-dashboard) |
+
+</div>
 
 ---
 
-## 📊 Production Highlights
+## 📈 Production Highlights
 
-- **SplitBill Pro**: FastAPI backend, 5+ normalized PostgreSQL tables, JWT auth, Docker containerized, UptimeRobot monitoring
-- **ContractScan**: Eliminated $0 AI cost using Groq free-tier, structured prompt engineering, 5+ document formats (PDF/DOCX/DOC/TXT)
-- **System Design**: Clean architecture, modular services, separation of concerns, isolated testing
-- **DevOps**: Docker, Render, Railway, Vercel, CI/CD basics, Linux server management
+<div align="center">
 
----
+```diff
++ SplitBill Pro    → FastAPI, 5+ normalized tables, JWT, Docker, UptimeRobot
++ ContractScan     → $0 AI cost (Groq free-tier), 5+ document formats
++ System Design    → Clean architecture, modular services, isolated testing
++ DevOps           → Docker, Render, Railway, Vercel, CI/CD, Linux
+```
+
+</div>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Backend & APIs**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 **AI / LLM**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Llama](https://img.shields.io/badge/Llama_3.1-4A154B?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Llama 3.1](https://img.shields.io/badge/Llama_3.1-4A154B?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
 **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ## 📜 Certifications
 
-- **SAP Certified Back-End Developer — ABAP Cloud** (Apr 2026)
-- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** (Nov 2025)
-- **Cisco Python Essentials 1 & 2** — OpenEDG Python Institute (Mar 2025)
-- **Google Cybersecurity Professional Certificate**
-- **Ethical Hacking Essentials (EHE)**
+<div align="center">
 
----
+| 🏆 Certification | 📅 Date |
+|:---|:---|
+| SAP Certified Back-End Developer — ABAP Cloud | Apr 2026 |
+| Oracle Cloud AI Foundations Associate | Nov 2025 |
+| Cisco Python Essentials 1 & 2 | Mar 2025 |
+| Google Cybersecurity Professional | 2025 |
+| Ethical Hacking Essentials (EHE) | 2025 |
 
-## 📈 GitHub Stats
+</div>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=vigneshsai52&show_icons=true&theme=tokyonight&hide_border=true" /&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshsai52&theme=tokyonight&hide_border=true" /&gt;
-&lt;/p&gt;
+## 📊 GitHub Stats
 
----
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vigneshsai52&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=667eea&icon_color=667eea&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshsai52&theme=radical&hide_border=true&background=0a0a0f&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" height="165"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshsai52&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=667eea&text_color=c9d1d9" height="165"/>
+
+</div>
 
 ## 🌍 Connect With Me
 
-&lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/uvigneshsai52"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:vigneshsai52@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://splitbill-pro-two.vercel.app/"&gt;
-    &lt;img src="https://img.shields.io/badge/SplitBill_Pro_Live-667eea?style=for-the-badge"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://documind-ai-roan.vercel.app/"&gt;
-    &lt;img src="https://img.shields.io/badge/ContractScan_Live-764ba2?style=for-the-badge"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uvigneshsai52)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshsai52@gmail.com)
+[![SplitBill Pro](https://img.shields.io/badge/SplitBill_Pro-Live-667eea?style=for-the-badge)](https://splitbill-pro-two.vercel.app/)
+[![ContractScan](https://img.shields.io/badge/ContractScan-Live-667eea?style=for-the-badge)](https://documind-ai-roan.vercel.app/)
 
-&lt;p align="center"&gt;
-  &lt;b&gt;Open to Software Engineering roles&lt;/b&gt; — Backend focused, full-stack curious | May 2026 grad
-&lt;/p&gt;
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=764ba2&height=100&section=footer"/>
+
+Open to Software Engineering roles — Backend focused, full-stack curious | May 2026 grad
+
+</div>
