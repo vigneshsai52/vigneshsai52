@@ -77,7 +77,7 @@
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333333?style=for-the-badge)
 
 **Distributed Systems**
 
@@ -134,8 +134,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uvigneshsai52)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshsai52@gmail.com)
 [![SplitBill Pro](https://img.shields.io/badge/SplitBill%20Pro-Live-667eea?style=for-the-badge)](https://splitbill-pro-two.vercel.app/)
 [![ContractScan](https://img.shields.io/badge/ContractScan-Live-764ba2?style=for-the-badge)](https://documind-ai-roan.vercel.app/)
 
