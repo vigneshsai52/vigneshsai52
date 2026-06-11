@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Vignesh%20Sai&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%202%20Production%20SaaS%20%E2%80%A2%20100%25%20Uptime%20%E2%80%A2%20~50ms%20Response&descSize=18&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Vignesh%20Sai&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Production%20SaaS%20%E2%80%A2%20Distributed%20Systems%20%7C%20Open%20to%20Work&descSize=18&descAlignY=55"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=FastAPI%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Docker;LLM%20Integration%20%E2%80%A2%20%240%20AI%20Cost;JWT%20Auth%20%E2%80%A2%20CI%2FCD%20%E2%80%A2%20AWS;Open%20to%20Backend%20Engineering%20Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=FastAPI%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Docker;Raft%20Consensus%20%E2%80%A2%20Go%20%E2%80%A2%20Distributed%20Systems;LLM%20Integration%20%E2%80%A2%20%240%20AI%20Cost;Backend%20Engineering%20Roles)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,6 +20,7 @@
 |:---|:---|:---|:---|
 | **SplitBill Pro** | FastAPI, PostgreSQL, Docker, JWT, CI/CD | 100% Uptime, ~50ms p95, 5+ normalized tables | [🚀 Live](https://splitbill-pro-two.vercel.app/) · [📁 Code](https://github.com/vigneshsai52/splitbill-pro) |
 | **ContractScan** | Flask, Llama 3.1, Groq API, PyPDF2 | $0 AI Cost, 70% Faster Review, Modular Architecture | [🚀 Live](https://documind-ai-roan.vercel.app/) · [📁 Code](https://github.com/vigneshsai52/contractscan) |
+| **RaftKV** | Go, Raft Consensus, Docker | 3,203 ops/sec, <2s Leader Failover, 3-Node Cluster | [📁 Code](https://github.com/vigneshsai52/raftkv) |
 
 </div>
 
@@ -39,6 +40,12 @@
 - Modularized backend into **3 independent components** (PDF processor, AI analyzer, API routes)
 - Supports **5+ document formats** with clean OOP architecture
 
+### RaftKV — Distributed Key-Value Store with Raft Consensus
+- Built **custom Raft consensus implementation** in Go — leader election, log replication, automatic failover
+- Achieved **3,203 writes/sec, 2,243 reads/sec** on 3-node cluster with 20 concurrent workers
+- Implemented **WAL persistence** and automatic snapshots at 10,000+ entries
+- Docker-ready with `docker-compose up` — cloud deployment in progress
+
 ---
 
 ## 📈 Production Highlights
@@ -46,10 +53,10 @@
 <div align="center">
 
 ```diff
-+ SplitBill Pro    → FastAPI, 5+ normalized tables, JWT, Docker, UptimeRobot, CI/CD
-+ ContractScan     → $0 AI cost (Groq free-tier), 70% faster review, modular architecture
-+ System Design    → Clean architecture, microservices-ready, isolated testing
-+ DevOps           → Docker, Render, Railway, Vercel, GitHub Actions, Linux
++ SplitBill Pro    → FastAPI, 100% uptime, JWT, Docker, CI/CD, monitoring
++ ContractScan     → $0 AI cost, 70% faster review, modular architecture
++ RaftKV           → 3K+ ops/sec, custom Raft, distributed consensus, Go
++ DevOps           → Docker, Render, Railway, GitHub Actions, Linux, AWS
 ```
 
 </div>
@@ -63,26 +70,29 @@
 **Backend & APIs**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 
+**Distributed Systems**
+
+![Raft](https://img.shields.io/badge/Raft%20Consensus-FF6B6B?style=for-the-badge&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 **DevOps & Cloud**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **AI / LLM**
 
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Llama 3.1](https://img.shields.io/badge/Llama%203.1-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 **Tools**
 
@@ -135,6 +145,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=764ba2&height=100&section=footer"/>
 
-**Open to Backend Engineering Roles — SaaS, API Design, AI Integration | Available Immediately**
+**Backend Engineer — SaaS, Distributed Systems, API Design | Available Immediately**
 
 </div>
