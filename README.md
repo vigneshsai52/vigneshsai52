@@ -119,17 +119,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vigneshsai52&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=667eea&icon_color=667eea&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshsai52&theme=radical&hide_border=true&background=0a0a0f&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" height="165"/>
-
-</div>
-
----
-
 ## 🌍 Connect With Me
 
 <div align="center">
