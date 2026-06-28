@@ -6,60 +6,60 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=FastAPI%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Docker;Raft%20Consensus%20%E2%80%A2%20Go%20%E2%80%A2%20Distributed%20Systems;LLM%20Integration%20%E2%80%A2%20%240%20AI%20Cost;Backend%20Engineering%20Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=FastAPI%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Docker;Raft%20Consensus%20%E2%80%A2%20Go%20%E2%80%A2%20Distributed%20Systems;LLM%20Integration%20%E2%80%A2%20%240%20AI%20Cost;Actively+Seeking+Backend+%7C+SaaS+Roles)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Proof of Work)
 
 <div align="center">
 
-| ⚡ Project | 🛠️ Stack | 📊 Metrics | 🔗 Links |
+| ⚡ Project | 🛠️ Stack | 📊 Business / Engineering Impact | 🔗 Links |
 |:---|:---|:---|:---|
-| **SplitBill Pro** | FastAPI, PostgreSQL, Docker, JWT, CI/CD | 100% Uptime, ~50ms p95, 5+ normalized tables | [🚀 Live](https://splitbill-pro-two.vercel.app/) · [📁 Code](https://github.com/vigneshsai52/splitbill-pro) |
-| **ContractScan** | Flask, Llama 3.1, Groq API, PyPDF2 | $0 AI Cost, 70% Faster Review, Modular Architecture | [🚀 Live](https://documind-ai-roan.vercel.app/) · [📁 Code](https://github.com/vigneshsai52/contractscan) |
+| **SplitBill Pro** | FastAPI, PostgreSQL, Docker, CI/CD | 100% Uptime, ~50ms p95 latency, 5+ normalized tables | [🚀 Live](https://splitbill-pro-two.vercel.app/) · [📁 Code](https://github.com/vigneshsai52/splitbill-pro) |
+| **ContractScan** | Flask, Llama 3.1, Groq API, PyPDF2 | $0 AI Cost, 70% faster manual review, modular architecture | [🚀 Live](https://documind-ai-roan.vercel.app/) · [📁 Code](https://github.com/vigneshsai52/contractscan) |
 | **RaftKV** | Go, Raft Consensus, Docker | 3,203 ops/sec, <2s Leader Failover, 3-Node Cluster | [📁 Code](https://github.com/vigneshsai52/raftkv) |
 
 </div>
 
 ---
 
-## What I Built
+## 🏗️ Engineering Deep-Dive
 
-### SplitBill Pro — Production-Grade Expense Splitting SaaS
+<details>
+<summary><strong>SplitBill Pro — Production-Grade Expense Splitting SaaS</strong></summary>
+<br>
+
 - Architected backend handling concurrent users with **100% uptime** via UptimeRobot monitoring
 - Designed **5+ normalized PostgreSQL tables**, reducing query latency through strategic indexing
 - Implemented **JWT authentication**, bcrypt hashing, CORS middleware for enterprise security
 - Deployed **Docker containers on Render** with GitHub Actions CI/CD pipeline
 
-### ContractScan — AI-Powered Legal Contract Analyzer
+</details>
+
+<details>
+<summary><strong>ContractScan — AI-Powered Legal Contract Analyzer</strong></summary>
+<br>
+
 - Engineered **$0-cost infrastructure** using Groq free-tier API without performance sacrifice
 - Reduced manual contract review time by **70%** through structured prompt engineering
 - Modularized backend into **3 independent components** (PDF processor, AI analyzer, API routes)
 - Supports **5+ document formats** with clean OOP architecture
 
-### RaftKV — Distributed Key-Value Store with Raft Consensus
+</details>
+
+<details>
+<summary><strong>RaftKV — Distributed Key-Value Store with Raft Consensus</strong></summary>
+<br>
+
 - Built **custom Raft consensus implementation** in Go — leader election, log replication, automatic failover
 - Achieved **3,203 writes/sec, 2,243 reads/sec** on 3-node cluster with 20 concurrent workers
 - Implemented **WAL persistence** and automatic snapshots at 10,000+ entries
 - Docker-ready with `docker-compose up` — cloud deployment in progress
 
----
-
-## 📈 Production Highlights
-
-<div align="center">
-
-```diff
-+ SplitBill Pro    → FastAPI, 100% uptime, JWT, Docker, CI/CD, monitoring
-+ ContractScan     → $0 AI cost, 70% faster review, modular architecture
-+ RaftKV           → 3K+ ops/sec, custom Raft, distributed consensus, Go
-+ DevOps           → Docker, Render, Railway, GitHub Actions, Linux, AWS
-```
-
-</div>
+</details>
 
 ---
 
@@ -109,11 +109,11 @@
 
 | 🏆 Certification | 📅 Date |
 |:---|:---:|
+| SAP Certified Back-End Developer — ABAP Cloud | Apr 2026 |
 | Oracle Cloud Infrastructure AI Foundations Associate | Nov 2025 |
 | Google Cybersecurity Professional Certificate | 2025 |
-| Cisco Python Essentials 1 & 2 | Mar 2025 |
-| SAP Certified Back-End Developer — ABAP Cloud | Apr 2026 |
 | Ethical Hacking Essentials (EHE) | 2025 |
+| Cisco Python Essentials 1 & 2 | Mar 2025 |
 
 </div>
 
