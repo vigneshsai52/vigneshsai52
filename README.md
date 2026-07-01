@@ -19,7 +19,7 @@
 | ⚡ Project | 🛠️ Stack | 📊 Business / Engineering Impact | 🔗 Links |
 |:---|:---|:---|:---|
 | **SplitBill Pro** | FastAPI, PostgreSQL, Docker, CI/CD | 100% Uptime, ~50ms p95 latency, 5+ normalized tables | [🚀 Live](https://splitbill-pro-two.vercel.app/) · [📁 Code](https://github.com/vigneshsai52/splitbill-pro) |
-| **ContractScan** | Flask, Llama 3.1, Groq API, PyPDF2 | $0 AI Cost, 70% faster manual review, modular architecture | [🚀 Live](https://documind-ai-roan.vercel.app/) · [📁 Code](https://github.com/vigneshsai52/contractscan) |
+| **ContractScan** | Flask, Llama 3.1, Groq API, PyPDF2 | $0 AI Cost, 70% faster manual review, modular architecture | [🚀 Live](https://contractscan-frontend-three.vercel.app/) · [📁 Code](https://github.com/vigneshsai52/contractscan) |
 | **RaftKV** | Go, Raft Consensus, Docker | 3,203 ops/sec, <2s Leader Failover, 3-Node Cluster | [📁 Code](https://github.com/vigneshsai52/raftkv) |
 
 </div>
